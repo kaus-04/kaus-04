@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
 </h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?&author=Me+Probably" alt="Static Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?&author=Me+probably" alt="Static Quote" />
 </p>
 
 
