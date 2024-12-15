@@ -13,9 +13,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
 </h3>
 <p align="center">
-  <img src="https://github.com/its-discreeeet/its-discreeeet/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/its-discreeeet/its-discreeeet/raw/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
