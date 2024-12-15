@@ -7,8 +7,12 @@
 
 <!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bits-discreeeet%7D/count.svg" alt="visitor badge"/></p> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-discreeeet&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=its-discreeeet&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-discreeeet&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=its-discreeeet&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"></p> -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
+</h3>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
