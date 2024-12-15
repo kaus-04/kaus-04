@@ -6,10 +6,10 @@
 <p align="center" width="150px"> I enjoy debugging my life and talking to the void about programming. If it compiles, we’re good!</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bits-discreeeet%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-discreeeet&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=its-discreeeet&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,7 +46,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kaustubh-patil-474556263"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kaus77135@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://x.com/Kaustubh_4004"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaustubh-patil-474556263"><img src="https://img.shields.io/badge/-Kaustubh%20Patil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kaus77135@gmail.com"><img src="https://img.shields.io/badge/-kaus77135@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com/Kaustubh_4004"><img src="https://img.shields.io/badge/-Kaustubh_4004-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
