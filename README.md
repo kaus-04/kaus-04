@@ -5,7 +5,7 @@
 
 <p align="center" width="150px"> I enjoy debugging my life and talking to the void about programming. If it compiles, we’re good!</p>
 
-<p align="center"><b>Visitor's Count</b></p>
+<!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bits-discreeeet%7D/count.svg" alt="visitor badge"/></p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-discreeeet&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=its-discreeeet&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
