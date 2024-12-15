@@ -13,8 +13,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Welcome+to+my+GitHub!;I+❤️+coding;I+explore+cool+tech+projects;Let's+collaborate!" />
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?~+Perfecting+the+art+of+over-engineering." />
+  <img src="https://via.placeholder.com/600x80/000000/FFFFFF?text=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?+%7E+Perfecting+the+art+of+over-engineering." alt="Static Quote">
 </p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
