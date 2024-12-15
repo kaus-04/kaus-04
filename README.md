@@ -52,7 +52,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kaustubh-patil-474556263"><img src="https://img.shields.io/badge/-Kaustubh%20Patil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kaus77135@gmail.com"><img src="https://img.shields.io/badge/-kaus77135@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://x.com/Kaustubh_4004"><img src="https://img.shields.io/badge/-Kaustubh_4004-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaustubh-patil-474556263"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kaus77135@gmail.com"><img src="https://img.shields.io/badge/-Mail Me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com/Kaustubh_4004"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
