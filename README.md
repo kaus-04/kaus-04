@@ -19,9 +19,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=radical&quote=Why+do+it+by+hand+in+ten+minutes+when+you+can+automate+it+in+ten+hours?&author=My+thoughts+everyday" alt="Static Quote" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=its-discreeeet&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
