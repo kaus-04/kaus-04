@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/615cc0400f9446eb5edcf669b17a67edb8e32aef3336785d0414a74670a03d72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="Gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kaustubh Patil </h1>
 
