@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kaustubh Patil </h1>
 
-<p align="center" width="150px"> I enjoy debugging my life and talking to the void about programming. If it compiles, we’re good!</p>
+<p align="center" width="150px"> Peak happiness is when the code finally compiles and works as intended <3 </p>
 
 <!-- <p align="center"><b>Visitor's Count</b></p> -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7Bits-discreeeet%7D/count.svg" alt="visitor badge"/></p> -->
